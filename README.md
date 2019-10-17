@@ -5,7 +5,7 @@ If git cannot render the jupyter notebook, then please visit https://www.gitmemo
 Try to open that notebook that you want using nbviewer online, you don't need to install it.
 
 Open "https://nbviewer.jupyter.org/"
-Paste the link to your notebook, (e.g. "https://github.com/tanwaz/Predicting-a-Pulsar-Star/blob/master/Predict%20PULSAR.ipynb") 
+Paste the link to your notebook, (e.g. "https://github.com/tanwaz/NLP---In-Progress/blob/master/NLP_Classification.ipynb") 
 
 This site nbviewer works independently of github.
 
